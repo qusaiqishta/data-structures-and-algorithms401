@@ -29,3 +29,16 @@ function insert a value in the middle of a specific array.
 logical thinking , breaking problem into steps.
 
 
+## Binary Search
+function find the index of a number inside an array using binary search method
+
+
+## whiteboard process
+![](images/Untitled.png)
+
+
+
+## Approach & Efficiency
+logical thinking , breaking problem into steps
+
+
