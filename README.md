@@ -23,7 +23,7 @@ how to reverse an array by different techniques and without using built-in funct
 function insert a value in the middle of a specific array.
 
 ## Whiteboard Process
-![shift_array](images/shift_array.png)
+![shift_array](images/shift-array-fix.png)
 
 ## Approach & Efficiency
 logical thinking , breaking problem into steps.
